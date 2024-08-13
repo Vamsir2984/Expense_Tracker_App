@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "buy",
+    "category":"type 1",
+    "amount": 20,
+    "month": 8
+  },
+  {
+    "id": 2,
+    "description": "bought shoes foemal",
+    "category":"type 1",
+    "amount": 20,
+    "month": 9
+  },
+  {
+    "id": 3,
+    "description": "bought shoes running",
+    "category":"type 2",
+    "amount": 20,
+    "month": 8
+  }
+]
