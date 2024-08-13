@@ -1,0 +1,19 @@
+{
+  "name": "expense_tracker_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "Expense_Tracker_App": "server.js"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
